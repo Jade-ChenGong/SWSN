@@ -1,4 +1,4 @@
-# SWSN
+# SWSN - A shallow broad scattering network for SAR image change detection
 The code is related my paper that is going to be published
 
 
